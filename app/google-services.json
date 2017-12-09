@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "628031991413",
+    "firebase_url": "https://taximap-24be9.firebaseio.com",
+    "project_id": "taximap-24be9",
+    "storage_bucket": "taximap-24be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628031991413:android:955d3ebaa6bfbb5b",
+        "android_client_info": {
+          "package_name": "com.example.hoanganhken.taximap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628031991413-67bk2c1ap1ee7i1mf0nrmq7vknb1q25i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hoanganhken.taximap",
+            "certificate_hash": "864223b9df3f5e9420bbf429c78b84ec6be0129d"
+          }
+        },
+        {
+          "client_id": "628031991413-jgmd6og7ve1mbagifgsdrij3ooed7k2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1BMpfKs3YDg3nXMFav9bAUdpDTXpNx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628031991413-jgmd6og7ve1mbagifgsdrij3ooed7k2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
